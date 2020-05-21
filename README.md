@@ -1,5 +1,3 @@
-# Read Me
-
 This project provides an example of using the Spring Data JDBC sub-project ( https://spring.io/projects/spring-data-jdbc ) to perform CRUD operations on Customer instances.
 
 The Spring Data JDBC sub-project is a simple, limited, opinionated ORM that aims at being conceptually easy compared to the Spring Data JPA sub-project.
